@@ -1,6 +1,6 @@
 streamlit
-opencv-python-headless
-mediapipe
 numpy
-scikit-learn
 pillow
+scikit-learn
+mediapipe
+opencv-python-headless
